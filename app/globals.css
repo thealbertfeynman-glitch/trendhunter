@@ -1,0 +1,192 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-surface: #0b1326;
+  --color-surface-dim: #0b1326;
+  --color-surface-container-lowest: #060e20;
+  --color-surface-container-low: #131b2e;
+  --color-surface-container: #171f33;
+  --color-surface-container-high: #222a3d;
+  --color-surface-container-highest: #2d3449;
+  --color-surface-variant: #2d3449;
+  --color-surface-bright: #31394d;
+
+  --color-on-surface: #dae2fd;
+  --color-on-surface-variant: #bac9cc;
+  --color-on-background: #dae2fd;
+
+  --color-primary: #c3f5ff;
+  --color-primary-container: #00e5ff;
+  --color-on-primary: #00363d;
+  --color-on-primary-container: #00626e;
+  --color-on-primary-fixed: #001f24;
+
+  --color-secondary: #e0b6ff;
+  --color-secondary-container: #6d11ad;
+  --color-on-secondary: #4c007d;
+  --color-on-secondary-container: #d7a4ff;
+
+  --color-tertiary: #ffeac0;
+  --color-tertiary-container: #fec931;
+  --color-tertiary-fixed-dim: #f3bf26;
+
+  --color-error: #ffb4ab;
+  --color-error-container: #93000a;
+
+  --color-outline: #849396;
+  --color-outline-variant: #3b494c;
+
+  --font-headline: "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
+
+:root {
+  --background: #0b1326;
+  --foreground: #dae2fd;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2d3449 #0b1326;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: #0b1326;
+}
+::-webkit-scrollbar-thumb {
+  background: #2d3449;
+  border-radius: 10px;
+}
+
+body {
+  background: #0b1326;
+  color: #dae2fd;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.glass-card {
+  background: rgba(45, 52, 73, 0.4);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #00e5ff 0%, #6d11ad 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* ── AI Thinking Animations ── */
+
+/* Radar sweep animation */
+@keyframes radarSweep {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.animate-radar-sweep {
+  animation: radarSweep 2s linear infinite;
+}
+
+/* Shimmer skeleton loading */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, #171f33 25%, #2d3449 50%, #171f33 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.8s ease-in-out infinite;
+  border-radius: 8px;
+}
+
+/* Typing cursor blink */
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+.animate-blink {
+  animation: blink 0.8s step-end infinite;
+}
+
+/* Fade in up stagger */
+@keyframes fadeInUp {
+  0% { opacity: 0; transform: translateY(16px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.animate-fade-in-up {
+  animation: fadeInUp 0.5s ease-out forwards;
+  opacity: 0;
+}
+
+/* Pulse glow */
+@keyframes pulseGlow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(0,229,255,0.3); }
+  50% { box-shadow: 0 0 20px 4px rgba(0,229,255,0.15); }
+}
+.animate-pulse-glow {
+  animation: pulseGlow 2s ease-in-out infinite;
+}
+
+/* Scanning line */
+@keyframes scanLine {
+  0% { top: 0; opacity: 0.6; }
+  50% { opacity: 1; }
+  100% { top: 100%; opacity: 0.6; }
+}
+.animate-scan-line {
+  animation: scanLine 2s ease-in-out infinite;
+}
+
+/* Data stream dots */
+@keyframes dataStream {
+  0% { opacity: 0.2; transform: scale(0.8); }
+  50% { opacity: 1; transform: scale(1.2); }
+  100% { opacity: 0.2; transform: scale(0.8); }
+}
+.animate-data-dot {
+  animation: dataStream 1.5s ease-in-out infinite;
+}
+
+/* Score counter */
+@keyframes countUp {
+  0% { opacity: 0; transform: translateY(8px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.animate-count-up {
+  animation: countUp 0.6s ease-out forwards;
+}
+
+/* Expand from left */
+@keyframes expandWidth {
+  0% { width: 0; }
+  100% { width: var(--target-width, 100%); }
+}
+.animate-expand-width {
+  animation: expandWidth 1s ease-out forwards;
+}
+
+/* Neural network pulse for AI badge */
+@keyframes neuralPulse {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.animate-neural {
+  background: linear-gradient(90deg, #6d11ad, #c77dff, #00e5ff, #c77dff, #6d11ad);
+  background-size: 300% 100%;
+  animation: neuralPulse 3s ease infinite;
+}

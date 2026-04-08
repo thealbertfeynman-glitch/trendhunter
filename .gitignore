@@ -1,0 +1,12 @@
+node_modules
+.next
+.env.local
+.env*.local
+_temp_next
+tmpnext
+_reference
+_temp_next
+data/*.json
+!data/.gitkeep
+*.zip
+.claude/
