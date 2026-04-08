@@ -1,0 +1,1502 @@
+{
+  "generated_at": "2026-04-06T05:00:09.696969+00:00",
+  "analysis_period": "2026-03-31 to 2026-04-06",
+  "total_creators": 48,
+  "total_videos": 751,
+  "trends": [
+    {
+      "hashtag": "#capcut",
+      "trend_score": 70.9,
+      "creator_count": 26,
+      "video_count": 434,
+      "total_views": 3442589,
+      "freshness": 0.417,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7623811342704626945",
+          "creator": "@gqt9daub36",
+          "views": 641500,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@lovinglylov3ly0/video/7624923328871992597",
+          "creator": "@lovinglylov3ly0",
+          "views": 332300,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@user4734981582801/video/7624201056368463134",
+          "creator": "@user4734981582801",
+          "views": 271400,
+          "posted": "2026-04-02"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "hashtag": "#capcutpioneer",
+      "trend_score": 67.5,
+      "creator_count": 25,
+      "video_count": 415,
+      "total_views": 3677965,
+      "freshness": 0.411,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7623811342704626945",
+          "creator": "@gqt9daub36",
+          "views": 641500,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@lovinglylov3ly0/video/7624923328871992597",
+          "creator": "@lovinglylov3ly0",
+          "views": 332300,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@coco5245x1t/video/7623792755281562898",
+          "creator": "@coco5245x1t",
+          "views": 301100,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "hashtag": "#capcutforus",
+      "trend_score": 25.0,
+      "creator_count": 10,
+      "video_count": 57,
+      "total_views": 1057694,
+      "freshness": 0.414,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@user4734981582801/video/7624201056368463134",
+          "creator": "@user4734981582801",
+          "views": 271400,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@ex3go200n5/video/7624443245141036296",
+          "creator": "@ex3go200n5",
+          "views": 268700,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@ex3go200n5/video/7624813988257271058",
+          "creator": "@ex3go200n5",
+          "views": 52600,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "hashtag": "#hypiccreator",
+      "trend_score": 23.7,
+      "creator_count": 7,
+      "video_count": 62,
+      "total_views": 1818270,
+      "freshness": 0.54,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7624898712787225864",
+          "creator": "@yuxun63",
+          "views": 399900,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7624836902419713288",
+          "creator": "@yuxun63",
+          "views": 308800,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7625056957518417170",
+          "creator": "@yuxun63",
+          "views": 285100,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "hashtag": "#godpic",
+      "trend_score": 23.7,
+      "creator_count": 7,
+      "video_count": 62,
+      "total_views": 1818270,
+      "freshness": 0.54,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7624898712787225864",
+          "creator": "@yuxun63",
+          "views": 399900,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7624836902419713288",
+          "creator": "@yuxun63",
+          "views": 308800,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7625056957518417170",
+          "creator": "@yuxun63",
+          "views": 285100,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "hashtag": "#hypic",
+      "trend_score": 23.7,
+      "creator_count": 7,
+      "video_count": 62,
+      "total_views": 1818270,
+      "freshness": 0.54,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7624898712787225864",
+          "creator": "@yuxun63",
+          "views": 399900,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7624836902419713288",
+          "creator": "@yuxun63",
+          "views": 308800,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7625056957518417170",
+          "creator": "@yuxun63",
+          "views": 285100,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "hashtag": "#pioneertemplate",
+      "trend_score": 21.6,
+      "creator_count": 7,
+      "video_count": 237,
+      "total_views": 661901,
+      "freshness": 0.53,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@lovinglylov3ly0/video/7624923328871992597",
+          "creator": "@lovinglylov3ly0",
+          "views": 332300,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@lovinglylov3ly0/video/7624904818632461588",
+          "creator": "@lovinglylov3ly0",
+          "views": 59200,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@one002787/video/7624286587106462990",
+          "creator": "@one002787",
+          "views": 56200,
+          "posted": "2026-04-02"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "hashtag": "#fyp",
+      "trend_score": 19.3,
+      "creator_count": 11,
+      "video_count": 260,
+      "total_views": 2694155,
+      "freshness": 0.273,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@dola_latam/video/7623467923885034772",
+          "creator": "@dola_latam",
+          "views": 2000000,
+          "posted": "2026-03-31"
+        },
+        {
+          "url": "https://www.tiktok.com/@dola.share/video/7624377796080454932",
+          "creator": "@dola.share",
+          "views": 109300,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@linyda15/video/7624776275986582804",
+          "creator": "@linyda15",
+          "views": 98000,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "hashtag": "#trending",
+      "trend_score": 14.2,
+      "creator_count": 6,
+      "video_count": 233,
+      "total_views": 892965,
+      "freshness": 0.397,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7623694183609470238",
+          "creator": "@ron007868",
+          "views": 264700,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@linyda15/video/7624776275986582804",
+          "creator": "@linyda15",
+          "views": 98000,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7624642036095831326",
+          "creator": "@ron007868",
+          "views": 67900,
+          "posted": "2026-04-03"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "hashtag": "#klingcreators",
+      "trend_score": 14.1,
+      "creator_count": 6,
+      "video_count": 44,
+      "total_views": 687811,
+      "freshness": 0.403,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7623694183609470238",
+          "creator": "@ron007868",
+          "views": 264700,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@linyda15/video/7624776275986582804",
+          "creator": "@linyda15",
+          "views": 98000,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7624642036095831326",
+          "creator": "@ron007868",
+          "views": 67900,
+          "posted": "2026-04-03"
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "hashtag": "#klingai",
+      "trend_score": 14.1,
+      "creator_count": 6,
+      "video_count": 44,
+      "total_views": 687811,
+      "freshness": 0.403,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7623694183609470238",
+          "creator": "@ron007868",
+          "views": 264700,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@linyda15/video/7624776275986582804",
+          "creator": "@linyda15",
+          "views": 98000,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7624642036095831326",
+          "creator": "@ron007868",
+          "views": 67900,
+          "posted": "2026-04-03"
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "hashtag": "#trend",
+      "trend_score": 11.0,
+      "creator_count": 5,
+      "video_count": 6,
+      "total_views": 69618,
+      "freshness": 0.454,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@creatorgemini/photo/7624238297954438422",
+          "creator": "@creatorgemini",
+          "views": 30700,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@creatorgemini/photo/7624853148011744534",
+          "creator": "@creatorgemini",
+          "views": 19000,
+          "posted": "2026-04-05"
+        },
+        {
+          "url": "https://www.tiktok.com/@dola.share/video/7623733489556278545",
+          "creator": "@dola.share",
+          "views": 16400,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "hashtag": "#aidance",
+      "trend_score": 10.5,
+      "creator_count": 5,
+      "video_count": 11,
+      "total_views": 22458,
+      "freshness": 0.483,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@user4734981582801/video/7624510466336836895",
+          "creator": "@user4734981582801",
+          "views": 6708,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@7xiaoxiao7/video/7624465424784084238",
+          "creator": "@7xiaoxiao7",
+          "views": 5759,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@linyda15/video/7625106406705761556",
+          "creator": "@linyda15",
+          "views": 4321,
+          "posted": "2026-04-05"
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "hashtag": "#dirtydancing",
+      "trend_score": 10.4,
+      "creator_count": 5,
+      "video_count": 22,
+      "total_views": 398380,
+      "freshness": 0.37,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@user4734981582801/video/7624201056368463134",
+          "creator": "@user4734981582801",
+          "views": 271400,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@user36612122273773/video/7624183777689881869",
+          "creator": "@user36612122273773",
+          "views": 51100,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@user36612122273773/video/7624893931058236686",
+          "creator": "@user36612122273773",
+          "views": 10800,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "hashtag": "#dancing",
+      "trend_score": 10.4,
+      "creator_count": 5,
+      "video_count": 22,
+      "total_views": 398380,
+      "freshness": 0.37,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@user4734981582801/video/7624201056368463134",
+          "creator": "@user4734981582801",
+          "views": 271400,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@user36612122273773/video/7624183777689881869",
+          "creator": "@user36612122273773",
+          "views": 51100,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@user36612122273773/video/7624893931058236686",
+          "creator": "@user36612122273773",
+          "views": 10800,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "hashtag": "#dance",
+      "trend_score": 10.0,
+      "creator_count": 5,
+      "video_count": 27,
+      "total_views": 63139,
+      "freshness": 0.416,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@cruica8/video/7624789677450530069",
+          "creator": "@cruica8",
+          "views": 11000,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@h8onyz9/video/7623499854248971542",
+          "creator": "@h8onyz9",
+          "views": 6941,
+          "posted": "2026-03-31"
+        },
+        {
+          "url": "https://www.tiktok.com/@cruica8/video/7624495349306264853",
+          "creator": "@cruica8",
+          "views": 6419,
+          "posted": "2026-04-03"
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "hashtag": "#futbol",
+      "trend_score": 7.9,
+      "creator_count": 2,
+      "video_count": 3,
+      "total_views": 90010,
+      "freshness": 0.792,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@dola_latam/video/7625222533511433493",
+          "creator": "@dola_latam",
+          "views": 48600,
+          "posted": "2026-04-05"
+        },
+        {
+          "url": "https://www.tiktok.com/@dola_latam/video/7625220800831884561",
+          "creator": "@dola_latam",
+          "views": 40800,
+          "posted": "2026-04-05"
+        },
+        {
+          "url": "https://www.tiktok.com/@chyjuy/video/7624627449686527253",
+          "creator": "@chyjuy",
+          "views": 610,
+          "posted": "2026-04-03"
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "hashtag": "#dreaminaisnextgeneditor",
+      "trend_score": 6.3,
+      "creator_count": 4,
+      "video_count": 19,
+      "total_views": 363330,
+      "freshness": 0.281,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@coco5245x1t/video/7623792755281562898",
+          "creator": "@coco5245x1t",
+          "views": 301100,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@coco5245x1t/video/7624604656882191624",
+          "creator": "@coco5245x1t",
+          "views": 22300,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@coco5245x1t/video/7623466166727609618",
+          "creator": "@coco5245x1t",
+          "views": 18100,
+          "posted": "2026-03-31"
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "hashtag": "#dreamina",
+      "trend_score": 6.3,
+      "creator_count": 4,
+      "video_count": 20,
+      "total_views": 366241,
+      "freshness": 0.284,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@coco5245x1t/video/7623792755281562898",
+          "creator": "@coco5245x1t",
+          "views": 301100,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@coco5245x1t/video/7624604656882191624",
+          "creator": "@coco5245x1t",
+          "views": 22300,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@coco5245x1t/video/7623466166727609618",
+          "creator": "@coco5245x1t",
+          "views": 18100,
+          "posted": "2026-03-31"
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "hashtag": "#dreaminapioneer",
+      "trend_score": 6.3,
+      "creator_count": 4,
+      "video_count": 20,
+      "total_views": 366241,
+      "freshness": 0.284,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@coco5245x1t/video/7623792755281562898",
+          "creator": "@coco5245x1t",
+          "views": 301100,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@coco5245x1t/video/7624604656882191624",
+          "creator": "@coco5245x1t",
+          "views": 22300,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@coco5245x1t/video/7623466166727609618",
+          "creator": "@coco5245x1t",
+          "views": 18100,
+          "posted": "2026-03-31"
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "hashtag": "#frutasinfieles",
+      "trend_score": 6.0,
+      "creator_count": 3,
+      "video_count": 4,
+      "total_views": 5918,
+      "freshness": 0.535,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7624638104132963585",
+          "creator": "@gqt9daub36",
+          "views": 2184,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@fiery.pomelo/video/7624731884433526046",
+          "creator": "@fiery.pomelo",
+          "views": 2129,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@user2312450393252/video/7624788041558789390",
+          "creator": "@user2312450393252",
+          "views": 1344,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "hashtag": "#xuhuong",
+      "trend_score": 6.0,
+      "creator_count": 2,
+      "video_count": 3,
+      "total_views": 16704,
+      "freshness": 0.71,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@creatorgemini/photo/7625216711184157974",
+          "creator": "@creatorgemini",
+          "views": 8128,
+          "posted": "2026-04-05"
+        },
+        {
+          "url": "https://www.tiktok.com/@creatorgemini/photo/7624759466466020630",
+          "creator": "@creatorgemini",
+          "views": 6879,
+          "posted": "2026-04-05"
+        },
+        {
+          "url": "https://www.tiktok.com/@whatsup.ai/video/7623651197118844180",
+          "creator": "@whatsup.ai",
+          "views": 1697,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "hashtag": "#fypシ",
+      "trend_score": 5.8,
+      "creator_count": 4,
+      "video_count": 8,
+      "total_views": 429834,
+      "freshness": 0.257,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7623694183609470238",
+          "creator": "@ron007868",
+          "views": 264700,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@dola.share/video/7623771227475168530",
+          "creator": "@dola.share",
+          "views": 108300,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@niubihonghong09/video/7624434782755114247",
+          "creator": "@niubihonghong09",
+          "views": 24300,
+          "posted": "2026-04-03"
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "hashtag": "#foryou",
+      "trend_score": 5.8,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 35200,
+      "freshness": 0.643,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@dola_latam/video/7625246704983444757",
+          "creator": "@dola_latam",
+          "views": 22600,
+          "posted": "2026-04-05"
+        },
+        {
+          "url": "https://www.tiktok.com/@dola.share/video/7624176407182069013",
+          "creator": "@dola.share",
+          "views": 12600,
+          "posted": "2026-04-02"
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "hashtag": "#ai",
+      "trend_score": 5.5,
+      "creator_count": 4,
+      "video_count": 18,
+      "total_views": 273506,
+      "freshness": 0.253,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@dola_latam/video/7623474022424022288",
+          "creator": "@dola_latam",
+          "views": 99900,
+          "posted": "2026-03-31"
+        },
+        {
+          "url": "https://www.tiktok.com/@dola_latam/video/7623474022424022288",
+          "creator": "@dola_latam",
+          "views": 99900,
+          "posted": "2026-03-31"
+        },
+        {
+          "url": "https://www.tiktok.com/@dola_latam/video/7623474210500791570",
+          "creator": "@dola_latam",
+          "views": 44600,
+          "posted": "2026-03-31"
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "hashtag": "#funny",
+      "trend_score": 5.1,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 12464,
+      "freshness": 0.622,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@creatorgemini/photo/7625216711184157974",
+          "creator": "@creatorgemini",
+          "views": 8128,
+          "posted": "2026-04-05"
+        },
+        {
+          "url": "https://www.tiktok.com/@dola.share/video/7624009464445668625",
+          "creator": "@dola.share",
+          "views": 4336,
+          "posted": "2026-04-02"
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "hashtag": "#fypシ゚viral",
+      "trend_score": 5.0,
+      "creator_count": 2,
+      "video_count": 14,
+      "total_views": 174241,
+      "freshness": 0.473,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7624642036095831326",
+          "creator": "@ron007868",
+          "views": 67900,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7624445705062599967",
+          "creator": "@ron007868",
+          "views": 24000,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7624021428408487199",
+          "creator": "@ron007868",
+          "views": 20200,
+          "posted": "2026-04-02"
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "hashtag": "#fypシ゚",
+      "trend_score": 4.9,
+      "creator_count": 3,
+      "video_count": 6,
+      "total_views": 78631,
+      "freshness": 0.337,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@niubihonghong09/video/7624049048068148488",
+          "creator": "@niubihonghong09",
+          "views": 22100,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@niubihonghong09/video/7624715978454191368",
+          "creator": "@niubihonghong09",
+          "views": 18100,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@niubihonghong09/video/7623642632304053512",
+          "creator": "@niubihonghong09",
+          "views": 15400,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "hashtag": "#tutorial",
+      "trend_score": 4.8,
+      "creator_count": 3,
+      "video_count": 4,
+      "total_views": 6061,
+      "freshness": 0.423,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@whatsup.ai/video/7624391578005605652",
+          "creator": "@whatsup.ai",
+          "views": 2992,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@whatsup.ai/video/7623651197118844180",
+          "creator": "@whatsup.ai",
+          "views": 1697,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7625249122349518081",
+          "creator": "@gqt9daub36",
+          "views": 824,
+          "posted": "2026-04-05"
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "hashtag": "#happyeaster",
+      "trend_score": 4.7,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 5855,
+      "freshness": 0.62,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@dreamweaver.pl/video/7624915452623392033",
+          "creator": "@dreamweaver.pl",
+          "views": 5721,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@iharj/video/7624932841813445896",
+          "creator": "@iharj",
+          "views": 134,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "hashtag": "#disney",
+      "trend_score": 4.6,
+      "creator_count": 2,
+      "video_count": 28,
+      "total_views": 649057,
+      "freshness": 0.399,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7623694183609470238",
+          "creator": "@ron007868",
+          "views": 264700,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@linyda15/video/7624776275986582804",
+          "creator": "@linyda15",
+          "views": 98000,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@ron007868/video/7624642036095831326",
+          "creator": "@ron007868",
+          "views": 67900,
+          "posted": "2026-04-03"
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "hashtag": "#danceai",
+      "trend_score": 4.4,
+      "creator_count": 2,
+      "video_count": 12,
+      "total_views": 30465,
+      "freshness": 0.489,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@cruica8/video/7624789677450530069",
+          "creator": "@cruica8",
+          "views": 11000,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@cruica8/video/7624495349306264853",
+          "creator": "@cruica8",
+          "views": 6419,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@cruica8/video/7624910986620751125",
+          "creator": "@cruica8",
+          "views": 3945,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "hashtag": "#tutorialia",
+      "trend_score": 4.3,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 16312,
+      "freshness": 0.507,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7624655739478461712",
+          "creator": "@gqt9daub36",
+          "views": 15800,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@user2312450393252/video/7624944366796262669",
+          "creator": "@user2312450393252",
+          "views": 512,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "hashtag": "#comofazerfotocomotomate",
+      "trend_score": 4.1,
+      "creator_count": 2,
+      "video_count": 7,
+      "total_views": 55723,
+      "freshness": 0.433,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7624402992556510465",
+          "creator": "@gqt9daub36",
+          "views": 37700,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7624408346292014352",
+          "creator": "@gqt9daub36",
+          "views": 7771,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@malou2030/video/7624924472633527560",
+          "creator": "@malou2030",
+          "views": 2850,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "hashtag": "#easter",
+      "trend_score": 3.9,
+      "creator_count": 2,
+      "video_count": 3,
+      "total_views": 1796,
+      "freshness": 0.605,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@dreamweaver.pl/video/7624880474178997537",
+          "creator": "@dreamweaver.pl",
+          "views": 1493,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@iharj/video/7624892844720868626",
+          "creator": "@iharj",
+          "views": 169,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@iharj/video/7624932841813445896",
+          "creator": "@iharj",
+          "views": 134,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "hashtag": "#amorsolosoyasalirconamigas",
+      "trend_score": 3.7,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 4313,
+      "freshness": 0.515,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7624638104132963585",
+          "creator": "@gqt9daub36",
+          "views": 2184,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@fiery.pomelo/video/7624731884433526046",
+          "creator": "@fiery.pomelo",
+          "views": 2129,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "hashtag": "#tutorialfrutasinfieles",
+      "trend_score": 3.7,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 4313,
+      "freshness": 0.515,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7624638104132963585",
+          "creator": "@gqt9daub36",
+          "views": 2184,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@fiery.pomelo/video/7624731884433526046",
+          "creator": "@fiery.pomelo",
+          "views": 2129,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "hashtag": "#dola",
+      "trend_score": 3.7,
+      "creator_count": 2,
+      "video_count": 7,
+      "total_views": 324100,
+      "freshness": 0.339,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@dola_latam/video/7623474022424022288",
+          "creator": "@dola_latam",
+          "views": 99900,
+          "posted": "2026-03-31"
+        },
+        {
+          "url": "https://www.tiktok.com/@dola.share/video/7623740430496075024",
+          "creator": "@dola.share",
+          "views": 99300,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@dola_latam/video/7623474210500791570",
+          "creator": "@dola_latam",
+          "views": 44600,
+          "posted": "2026-03-31"
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "hashtag": "#salsadance",
+      "trend_score": 3.3,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 1947,
+      "freshness": 0.505,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@user36612122273773/video/7624872521451556109",
+          "creator": "@user36612122273773",
+          "views": 1371,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@long87281/video/7623934933848837397",
+          "creator": "@long87281",
+          "views": 576,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "hashtag": "#bailesalsa",
+      "trend_score": 3.3,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 1947,
+      "freshness": 0.505,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@user36612122273773/video/7624872521451556109",
+          "creator": "@user36612122273773",
+          "views": 1371,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@long87281/video/7623934933848837397",
+          "creator": "@long87281",
+          "views": 576,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "hashtag": "#salsa",
+      "trend_score": 3.3,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 1947,
+      "freshness": 0.505,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@user36612122273773/video/7624872521451556109",
+          "creator": "@user36612122273773",
+          "views": 1371,
+          "posted": "2026-04-04"
+        },
+        {
+          "url": "https://www.tiktok.com/@long87281/video/7623934933848837397",
+          "creator": "@long87281",
+          "views": 576,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "hashtag": "#dancewithcapcut",
+      "trend_score": 3.3,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 5304,
+      "freshness": 0.447,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@malou2030/video/7623971649758498055",
+          "creator": "@malou2030",
+          "views": 3917,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@chyjuy/video/7625364357924359444",
+          "creator": "@chyjuy",
+          "views": 1387,
+          "posted": "2026-04-05"
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "hashtag": "#templatecapcut",
+      "trend_score": 3.2,
+      "creator_count": 3,
+      "video_count": 17,
+      "total_views": 18446,
+      "freshness": 0.252,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@dola.share/video/7623733489556278545",
+          "creator": "@dola.share",
+          "views": 16400,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@template.trend10/video/7623706703929871624",
+          "creator": "@template.trend10",
+          "views": 351,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@template.trend10/video/7623625955960982791",
+          "creator": "@template.trend10",
+          "views": 326,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "hashtag": "#letmebe",
+      "trend_score": 3.1,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 3195,
+      "freshness": 0.442,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@h8onyz9/video/7624104307469651222",
+          "creator": "@h8onyz9",
+          "views": 2180,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@asigtsijov/video/7625067581388377374",
+          "creator": "@asigtsijov",
+          "views": 1015,
+          "posted": "2026-04-05"
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "hashtag": "#babydance",
+      "trend_score": 3.1,
+      "creator_count": 2,
+      "video_count": 2,
+      "total_views": 3749,
+      "freshness": 0.429,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@user68172711723665/video/7624506224272297247",
+          "creator": "@user68172711723665",
+          "views": 3113,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@h8onyz9/video/7624208973541018902",
+          "creator": "@h8onyz9",
+          "views": 636,
+          "posted": "2026-04-02"
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "hashtag": "#cwalk",
+      "trend_score": 3.0,
+      "creator_count": 2,
+      "video_count": 5,
+      "total_views": 8351,
+      "freshness": 0.383,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@asigtsijov/video/7624468553797799199",
+          "creator": "@asigtsijov",
+          "views": 3317,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@asigtsijov/video/7623922451633720606",
+          "creator": "@asigtsijov",
+          "views": 2361,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@h8onyz9/video/7623845621618756886",
+          "creator": "@h8onyz9",
+          "views": 1330,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "hashtag": "#moranguete",
+      "trend_score": 3.0,
+      "creator_count": 2,
+      "video_count": 4,
+      "total_views": 49997,
+      "freshness": 0.323,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7623929705938357521",
+          "creator": "@gqt9daub36",
+          "views": 30100,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7624026619056819457",
+          "creator": "@gqt9daub36",
+          "views": 14100,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@theuslx.modelos/video/7625060363670703376",
+          "creator": "@theuslx.modelos",
+          "views": 3977,
+          "posted": "2026-04-05"
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "hashtag": "#cwalkdance",
+      "trend_score": 2.8,
+      "creator_count": 2,
+      "video_count": 4,
+      "total_views": 7673,
+      "freshness": 0.358,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@asigtsijov/video/7624468553797799199",
+          "creator": "@asigtsijov",
+          "views": 3317,
+          "posted": "2026-04-03"
+        },
+        {
+          "url": "https://www.tiktok.com/@asigtsijov/video/7623922451633720606",
+          "creator": "@asigtsijov",
+          "views": 2361,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@h8onyz9/video/7623845621618756886",
+          "creator": "@h8onyz9",
+          "views": 1330,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "hashtag": "#foryoupage",
+      "trend_score": 2.5,
+      "creator_count": 2,
+      "video_count": 4,
+      "total_views": 113038,
+      "freshness": 0.251,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@dola.share/video/7623771227475168530",
+          "creator": "@dola.share",
+          "views": 108300,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@ab.officail.46/video/7624107745867779348",
+          "creator": "@ab.officail.46",
+          "views": 3756,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@ab.officail.46/video/7624841729492978964",
+          "creator": "@ab.officail.46",
+          "views": 578,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "hashtag": "#seedance2",
+      "trend_score": 2.5,
+      "creator_count": 2,
+      "video_count": 6,
+      "total_views": 4041,
+      "freshness": 0.353,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@whatsup.ai/video/7623651197118844180",
+          "creator": "@whatsup.ai",
+          "views": 1697,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@iharj/video/7623802030225935624",
+          "creator": "@iharj",
+          "views": 667,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@iharj/video/7624695276057398546",
+          "creator": "@iharj",
+          "views": 646,
+          "posted": "2026-04-04"
+        }
+      ],
+      "rank": 50
+    },
+    {
+      "hashtag": "#lebrondwadetrend",
+      "trend_score": 2.2,
+      "creator_count": 2,
+      "video_count": 5,
+      "total_views": 70839,
+      "freshness": 0.226,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7623560889005837585",
+          "creator": "@gqt9daub36",
+          "views": 57000,
+          "posted": "2026-03-31"
+        },
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7624039558799248657",
+          "creator": "@gqt9daub36",
+          "views": 8560,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@user2312450393252/video/7624018851574926605",
+          "creator": "@user2312450393252",
+          "views": 2383,
+          "posted": "2026-04-02"
+        }
+      ],
+      "rank": 51
+    },
+    {
+      "hashtag": "#nbaedittutorial",
+      "trend_score": 2.2,
+      "creator_count": 2,
+      "video_count": 5,
+      "total_views": 70839,
+      "freshness": 0.226,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7623560889005837585",
+          "creator": "@gqt9daub36",
+          "views": 57000,
+          "posted": "2026-03-31"
+        },
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7624039558799248657",
+          "creator": "@gqt9daub36",
+          "views": 8560,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@user2312450393252/video/7624018851574926605",
+          "creator": "@user2312450393252",
+          "views": 2383,
+          "posted": "2026-04-02"
+        }
+      ],
+      "rank": 52
+    },
+    {
+      "hashtag": "#aiwallpapertutorial",
+      "trend_score": 2.2,
+      "creator_count": 2,
+      "video_count": 5,
+      "total_views": 70839,
+      "freshness": 0.226,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7623560889005837585",
+          "creator": "@gqt9daub36",
+          "views": 57000,
+          "posted": "2026-03-31"
+        },
+        {
+          "url": "https://www.tiktok.com/@gqt9daub36/video/7624039558799248657",
+          "creator": "@gqt9daub36",
+          "views": 8560,
+          "posted": "2026-04-02"
+        },
+        {
+          "url": "https://www.tiktok.com/@user2312450393252/video/7624018851574926605",
+          "creator": "@user2312450393252",
+          "views": 2383,
+          "posted": "2026-04-02"
+        }
+      ],
+      "rank": 53
+    },
+    {
+      "hashtag": "#nepaliculture",
+      "trend_score": 2.2,
+      "creator_count": 2,
+      "video_count": 3,
+      "total_views": 86040,
+      "freshness": 0.218,
+      "sample_videos": [
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7623602260794232072",
+          "creator": "@yuxun63",
+          "views": 74200,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@yuxun63/video/7623763206892358920",
+          "creator": "@yuxun63",
+          "views": 9644,
+          "posted": "2026-04-01"
+        },
+        {
+          "url": "https://www.tiktok.com/@niubihonghong09/video/7623723532308073746",
+          "creator": "@niubihonghong09",
+          "views": 2196,
+          "posted": "2026-04-01"
+        }
+      ],
+      "rank": 54
+    }
+  ]
+}

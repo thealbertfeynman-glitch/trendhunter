@@ -6,7 +6,8 @@ _temp_next
 tmpnext
 _reference
 _temp_next
-data/*.json
-!data/.gitkeep
+# data files included for sample data
+!data/summary.json
+!data/trend_analysis.json
 *.zip
 .claude/
